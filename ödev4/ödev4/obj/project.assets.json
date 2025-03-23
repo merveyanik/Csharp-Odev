@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Merve\\Desktop\\acunmedya\\ödev4\\ödev4\\ödev4.csproj",
-      "projectName": "ödev4",
-      "projectPath": "C:\\Users\\Merve\\Desktop\\acunmedya\\ödev4\\ödev4\\ödev4.csproj",
+      "projectUniqueName": "C:\\Users\\Merve\\Desktop\\acunmedya\\ödev4\\ödev4\\Tahminoyunu.csproj",
+      "projectName": "Tahminoyunu",
+      "projectPath": "C:\\Users\\Merve\\Desktop\\acunmedya\\ödev4\\ödev4\\Tahminoyunu.csproj",
       "packagesPath": "C:\\Users\\Merve\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Merve\\Desktop\\acunmedya\\ödev4\\ödev4\\obj\\",
       "projectStyle": "PackageReference",
