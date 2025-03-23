@@ -1,0 +1,14 @@
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\bin\Debug\net8.0\HesapMak..exe
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\bin\Debug\net8.0\HesapMak..deps.json
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\bin\Debug\net8.0\HesapMak..runtimeconfig.json
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\bin\Debug\net8.0\HesapMak..dll
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\bin\Debug\net8.0\HesapMak..pdb
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..AssemblyInfoInputs.cache
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..AssemblyInfo.cs
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..dll
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\refint\HesapMak..dll
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..pdb
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\HesapMak..genruntimeconfig.cache
+C:\Users\Merve\Desktop\acunmedya\HesapMak\HesapMak\obj\Debug\net8.0\ref\HesapMak..dll
