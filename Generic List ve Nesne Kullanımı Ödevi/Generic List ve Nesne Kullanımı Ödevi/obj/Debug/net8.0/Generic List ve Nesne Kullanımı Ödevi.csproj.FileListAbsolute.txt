@@ -1,0 +1,14 @@
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.exe
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.deps.json
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.runtimeconfig.json
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.dll
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\bin\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.pdb
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.AssemblyInfoInputs.cache
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.AssemblyInfo.cs
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.dll
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\refint\Generic List ve Nesne Kullanımı Ödevi.dll
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.pdb
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\Generic List ve Nesne Kullanımı Ödevi.genruntimeconfig.cache
+C:\Users\Merve\Desktop\acunmedya\Generic List ve Nesne Kullanımı Ödevi\Generic List ve Nesne Kullanımı Ödevi\obj\Debug\net8.0\ref\Generic List ve Nesne Kullanımı Ödevi.dll
