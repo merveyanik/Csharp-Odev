@@ -1,0 +1,10 @@
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\bin\Debug\öğrencibilgisisorgulama.exe.config
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\bin\Debug\öğrencibilgisisorgulama.exe
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\bin\Debug\öğrencibilgisisorgulama.pdb
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.csproj.AssemblyReference.cache
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.Form1.resources
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.Properties.Resources.resources
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.csproj.GenerateResource.cache
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.csproj.CoreCompileInputs.cache
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.exe
+C:\Users\Merve\Desktop\acunmedya\öğrencibilgisisorgulama\öğrencibilgisisorgulama\obj\Debug\öğrencibilgisisorgulama.pdb
